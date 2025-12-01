@@ -1,0 +1,14 @@
+imbalanced-learn
+imblearn
+ipykernel
+matplotlib
+nbformat
+numpy
+openpyxl
+pandas
+plotly
+scikit-learn
+seaborn
+streamlit
+tensorboard
+tensorflow
